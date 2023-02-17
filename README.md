@@ -1,3 +1,7 @@
+
+The app allows the user to view the weather condition at a location (city,country) and provides vital climatic parameter details about countries timezone state local time , and weather forecast for the next week.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
