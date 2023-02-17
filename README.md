@@ -1,5 +1,5 @@
 
-The app allows the user to view the weather condition at a location (city,country) and provides vital climatic parameter details about countries timezone state local time , and weather forecast for the next week.
+The app allows the user to view the weather condition at a location (city,country) and provides vital climatic  details along with countries timezone ,state ,local time , and weather forecast for the next week.
 
 
 # Getting Started with Create React App
